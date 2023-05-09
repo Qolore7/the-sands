@@ -76,7 +76,9 @@ Right-click on the mod in the left pane called `4GB Patcher` and seelct **Open i
 
 > IMPORTANT: The 4GB Patcher is still needed with the GOG version of the game for the NVSE integration
 
-Inside the `Root` folder, double click on `FNVPatcher.exe` to run the patcher
+Inside the opened folder, move `FNVPatcher.exe` to the game's `Root` folder (i.e. where you installed Fallout New Vegas)
+
+Once the file has been moved, double-click `FNVPatcher.exe` to run the patcher 
 
 A command prompt should show up and read:
 `Patching FalloutNV.exe [US]...
