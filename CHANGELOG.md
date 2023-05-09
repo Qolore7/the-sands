@@ -14,6 +14,11 @@
 
 # Changelog
 
+## Version 1.0.1
+
+Disabled DXVK and New Vegas Reloaded by default (still optional for advanced users)
+Fixed installation on non-Steam installs (IMPORTANT: USERS NOW HAVE TO MANUALLY APPLY THE 4GB PATCHER!)
+
 ## Version 1.0.0
 
 Release :)
