@@ -73,9 +73,6 @@ If you have any other installation issues, I may need to update the list. Please
 
 Open the installation folder and double click on the program called `ModOrganizer.exe`.
 
-IMPORTANT:
-If you use the GOG version of the game, activate all the mods under the **GOG Support** separator
-
 Make sure the dropdown box on the right is set to `The Sands` and press the Run button.
 
 You're all set! Everything is already configured by default so you can hope right into a new game!
