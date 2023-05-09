@@ -17,7 +17,7 @@
   - [List Contents](#list-contents)
   - [Requirements](#requirements)
 - [Installation](#installation)
-    - [Starting the Game](#starting-fnv)
+    - [Starting the Game](#starting-fallout-new-vegas)
     - [Downloading and Installing](#downloading-and-installing)
     - [Problems with Wabbajack](#problems-with-wabbajack)
 - [Startup](#startup)
@@ -45,7 +45,7 @@ You can find a summary of all changes on the [Gameplay Changes](GAMEPLAY.md) pag
 
 # Installation:
 
-## Starting Skyrim
+## Starting Fallout New Vegas
 Start the game and exit once you're at the main menu. This will ensure any settings files needed by Wabbajack are created.
 
 ## Downloading and Installing
