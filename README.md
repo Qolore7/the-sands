@@ -72,9 +72,26 @@ If you have any other installation issues, I may need to update the list. Please
 
 Open the installation folder and double click on the program called `ModOrganizer.exe`.
 
-Make sure the dropdown box on the right is set to `The Sands` and press the Run button.
+Right-click on the mod in the left pane called `4GB Patcher` and seelct **Open in Explorer**
+
+> IMPORTANT: The 4GB Patcher is still needed with the GOG version of the game for the NVSE integration
+
+Inside the `Root` folder, double click on `FNVPatcher.exe` to run the patcher
+
+A command prompt should show up and read:
+`Patching FalloutNV.exe [US]...
+FalloutNV.exe patched!
+Press any key to continue . . .`
+
+Exit out of the command prompt and make sure that the `4GB Patcher` mod is enabled in the left pane of MO2
+
+Make sure the dropdown box on the right is set to `New Vegas` and press the Run button.
 
 You're all set! Everything is already configured by default so you can hope right into a new game!
+
+## Optional Steps
+
+There are two optional mods in The Sands that users may want to experiement with. First is [DXVK](https://www.nexusmods.com/newvegas/mods/79299). DXVK essentially makes the game use the much faster Vulkan renderer instead of DirectX 9. IT IS VERY IMPORTANT that if you want to try DXVK, you check the mod description linked above for details. DXVK's benefits vary widely system-to-system and it may not be right for you. The second optional mod is New Vegas Reloaded, or NVR. NVR is a brand new rendering pipeline for the game that, among other incredible features, adds real-time shadows and ambient occlusion to the game. NVR is what is used in all of the screenshots for The Sands. NVR is still fairly experimental, and therefore can be very performance intensive and/or slightly buggy. It is recommended to enable at your own discretion. If you do decide to enable NVR, it is highly recommended to disable New Vegas Heap Replacer, as they often do not play well together.
 
 # Credits
 
