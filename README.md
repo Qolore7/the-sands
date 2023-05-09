@@ -35,8 +35,7 @@ You can find a summary of all changes on the [Gameplay Changes](GAMEPLAY.md) pag
 
 ## Requirements:
 
-- An fresh installation of the **English** version of the game with the full paid Anniversary Upgrade DLC from Steam or GOG
-  * The paid Anniversary Upgrade is required, full stop.
+- An fresh installation of the **English** version of the game with the all of the DLCs from Steam or GOG
   * Only the English version is supported. I understand that this may be frustrating for non-English speaking users, but due to the core file differences between the different versions, only one version can be supported. 
   * The game MUST be installed outside of any default Windows folders, such as `Program Files`, your `Desktop`, or `Documents`. If you have your Steam library in any of these locations, please follow [these](https://github.com/LostDragonist/steam-library-setup-tool/wiki/Usage-Guide) instructions to move it.
 
