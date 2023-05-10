@@ -93,7 +93,19 @@ You're all set! Everything is already configured by default so you can hope righ
 
 ## Optional Steps
 
-There are two optional mods in The Sands that users may want to experiement with. First is [DXVK](https://www.nexusmods.com/newvegas/mods/79299). DXVK essentially makes the game use the much faster Vulkan renderer instead of DirectX 9. IT IS VERY IMPORTANT that if you want to try DXVK, you check the mod description linked above for details. DXVK's benefits vary widely system-to-system and it may not be right for you. The second optional mod is New Vegas Reloaded, or NVR. NVR is a brand new rendering pipeline for the game that, among other incredible features, adds real-time shadows and ambient occlusion to the game. NVR is what is used in all of the screenshots for The Sands. NVR is still fairly experimental, and therefore can be very performance intensive and/or slightly buggy. It is recommended to enable at your own discretion. If you do decide to enable NVR, it is highly recommended to disable New Vegas Heap Replacer, as they often do not play well together.
+### BSA Decompressor
+
+The BSA Decompressor is a tool that can provide marginally improved performance and decreased load times. It is only optional due to how it modifies the base game files and Wabbajack can't handle it. It is very easy to do and is highly recommended.
+
+1). Navigate to the `Tools\BSA Decompressor` folder inside of the folder you installed `The Sands` to
+2). Run `FNV BSA Decompressor.exe` and make sure the filepath is correctly detecting your Fallout New Vegas installation location
+3). Select **Decompress** and wait for the installer to finish (can take up to a few minutes)
+> If you get a message about `Fallout - Misc.bsa` already being modified, then you did not properly do a clean installation of the game!
+4). Done! Simply exit the program and you are good to go.
+
+### DXVK and New Vegas Reloaded
+
+There are two optional mods in The Sands that users may want to experiement with. These mods are located under the `Optional` separator at the bottom of the left pane in Mod Organizer 2. First is [DXVK](https://www.nexusmods.com/newvegas/mods/79299). DXVK essentially makes the game use the much faster Vulkan renderer instead of DirectX 9. IT IS VERY IMPORTANT that if you want to try DXVK, you check the mod description linked above for details. DXVK's benefits vary widely system-to-system and it may not be right for you. The second optional mod is New Vegas Reloaded, or NVR. NVR is a brand new rendering pipeline for the game that, among other incredible features, adds real-time shadows and ambient occlusion to the game. NVR is what is used in all of the screenshots for The Sands. NVR is still fairly experimental, and therefore can be very performance intensive and/or slightly buggy. It is recommended to enable at your own discretion. If you do decide to enable NVR, it is highly recommended to disable New Vegas Heap Replacer, as they often do not play well together.
 
 # Credits
 
