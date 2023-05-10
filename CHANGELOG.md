@@ -14,6 +14,9 @@
 
 # Changelog
 
+## Version 1.0.1a
+Removed BSA Decompressor (Wabbajack would corrupt the archives if I tried to include them myself. The Decompressor is still available as an optional (and recommended!) step, in structions for which are located at the bottom of the read-me.
+
 ## Version 1.0.1
 
 Disabled DXVK and New Vegas Reloaded by default (still optional for advanced users)
