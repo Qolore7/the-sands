@@ -14,6 +14,27 @@
 
 # Changelog
 
+## Version 1.0.2 (unreleased)
+Added: 
+- Branded Robots
+- Crafting Consistency Fix
+- Depth of Field Fix
+- Dynamic Pip-Boy Light
+- Hit - Binoculars Set
+- Hit - Codac R9000 Set
+- Lucky Jim's Cache
+- Melee Cleave as a Perk
+- Muzzle Flash Light Fix
+- Sidewalk Recolor
+
+Updated:
+- All mods updated to latest version
+
+Removed: 
+- FOV Slider: Still has bug with FOV getting set to zero after a killcam. Default FOV settings have been added to the FalloutCustom.ini for easy tweaking instead
+
+
+
 ## Version 1.0.1a
 Removed BSA Decompressor (Wabbajack would corrupt the archives if I tried to include them myself. The Decompressor is still available as an optional (and recommended!) step, in structions for which are located at the bottom of the read-me.
 
