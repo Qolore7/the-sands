@@ -14,7 +14,7 @@
 
 # Changelog
 
-## Version 1.0.2 (unreleased)
+## Version 1.0.2
 Added: 
 - Branded Robots
 - Crafting Consistency Fix
