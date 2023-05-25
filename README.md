@@ -95,13 +95,13 @@ You're all set! Everything is already configured by default so you can hope righ
 
 ### BSA Decompressor
 
-The BSA Decompressor is a tool that can provide marginally improved performance and decreased load times. It is only optional due to how it modifies the base game files and Wabbajack can't handle it. It is very easy to do and is highly recommended.
+The BSA Decompressor is a tool that can provide marginally improved performance and decreased load times. It is only optional due to Wabbajack not being able to handle how it modifies files from the base game. It is very easy to do and is highly recommended.
 
-1). Navigate to the `Tools\BSA Decompressor` folder inside of the folder you installed `The Sands` to
-2). Run `FNV BSA Decompressor.exe` and make sure the filepath is correctly detecting your Fallout New Vegas installation location
-3). Select **Decompress** and wait for the installer to finish (can take up to a few minutes)
-> If you get a message about `Fallout - Misc.bsa` already being modified, then you did not properly do a clean installation of the game!
-4). Done! Simply exit the program and you are good to go.
+1. Navigate to the `Tools\BSA Decompressor` folder inside of the folder you installed `The Sands` to
+2. Run `FNV BSA Decompressor.exe` and make sure the filepath is correctly detecting your Fallout New Vegas installation location
+3. Select **Decompress** and wait for the installer to finish (can take up to a few minutes)
+  > If you get a message about `Fallout - Misc.bsa` already being modified, then you did not properly do a clean installation of the game!
+4. Done! Simply exit the program and you are good to go.
 
 ### DXVK and New Vegas Reloaded
 
