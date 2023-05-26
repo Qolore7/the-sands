@@ -18,9 +18,9 @@
   - [List Contents](#list-contents)
   - [Requirements](#requirements)
 - [Installation](#installation)
+    - [Clean Install](#clean-install)
     - [Starting the Game](#starting-fallout-new-vegas)
     - [Downloading and Installing](#downloading-and-installing)
-    - [Problems with Wabbajack](#problems-with-wabbajack)
 - [Startup](#startup)
 - [Credits](#credits)
 
@@ -46,7 +46,7 @@ You can find a summary of all changes on the [Gameplay Changes](GAMEPLAY.md) pag
 # Installation:
 
 ## Clean Install
-Lost Liberty requires a completely clean installation of Fallout 3. This means completely deleting both the game folder and also the folder located in `Documents\My Games\FalloutNV` then reinstalling the game through Steam/GOG. The game MUST be installed outside of any default Windows folders, such as `Program Files`, your `Desktop`, or `Documents`. If you have your Steam library in any of these locations, please follow [these](https://github.com/LostDragonist/steam-library-setup-tool/wiki/Usage-Guide) instructions to move it.
+Lost Liberty requires a completely clean installation of Fallout New Vegas. This means completely deleting both the game folder and also the folder located in `Documents\My Games\FalloutNV` then reinstalling the game through Steam/GOG. The game MUST be installed outside of any default Windows folders, such as `Program Files`, your `Desktop`, or `Documents`. If you have your Steam library in any of these locations, please follow [these](https://github.com/LostDragonist/steam-library-setup-tool/wiki/Usage-Guide) instructions to move it.
 
 ## Starting Fallout New Vegas
 Start the game and exit once you're at the main menu. This will ensure any settings files needed by Wabbajack are created.
