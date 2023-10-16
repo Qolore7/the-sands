@@ -14,6 +14,51 @@
 
 # Changelog
 
+## Version 1.1.0
+Massive update, NOT save safe. List was more or less rebuilt from scratch but here are the hightlights:
+
+Added:
+- Free Camp Golf/McCarran Performance
+- Skinned Mesh Improvement Mod
+- The HUD Editor
+- Smallified VUI HUD - a HUD Editor Preset
+- 3rd Person Movement Animations Overhaul
+- Animated Ingestibles
+- B42 True Leaning
+- Clean Animations Parts 1-3
+- Immersive Recoil 2.0
+- One More Dynamic Camera
+- Viewmodel Recoil
+- New Vegas Redesigned 3 Revised
+- JSRS Sound Mod 2.0
+- Alternate Start
+- Physics-Based Ballistics
+- Physics-Based Spread
+- T.A.P.S. (un-released VATS overhaul mod)
+- Weapon Reuirements System
+- Simple Open Strip
+- The Strip 2023
+- Claim the Mojave
+- New Vegas Bounties I LE
+- New Vegas Killer LE
+- MoreMojave
+- Sweet Pain
+- The Living Desert
+- Subjugation - Slavery and Capture Mechanics
+- Fatigue Overhaul - Pacifism Redone
+- New Vegas Landscape Overhaul Re-Remastered
+
+Removed:
+- Better Character Creation (replaced with Alternate Start)
+- Real Recoil (replaced with Immersive Recoil + Viewmodel Recoil)
+- Wasteland Flora Overhaul
+- Lightweight Strip Overhaul (replaced with The Strip 2023)
+- Strip NPCs Uncut (incompatible with Simple Open Strip)
+
+Changes:
+- Re-made NVR preset
+- NVR is now enabled by default
+
 ## Version 1.0.2
 Added: 
 - Branded Robots
