@@ -57,8 +57,7 @@ Removed:
 
 Changes:
 - Re-made NVR preset
-- NVR is now enabled by default
-
+- 
 ## Version 1.0.2
 Added: 
 - Branded Robots
