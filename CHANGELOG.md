@@ -14,6 +14,14 @@
 
 # Changelog
 
+## Version 1.1.1
+Minor fixes from update 1.1.0. Save-safe.
+
+Changes:
+Removed left over custom ADAM plugin from testing
+Fixed the 4GB Patcher not being installed
+Fixed Minimal ENB Hair Fixes not being installed (optional for NVR users)
+
 ## Version 1.1.0
 Massive update, NOT save safe. List was more or less rebuilt from scratch but here are the hightlights:
 
